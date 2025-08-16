@@ -8,8 +8,6 @@
 
 ## 📋 プロジェクト概要
 
-## 📋 プロジェクト概要
-
 ### 目的
 マーケティングツール（Google Tag Manager、Google Analytics、Facebook Pixel等）の動作確認を目的とした、JavaScript完全実行対応の自動リンク巡回システム
 
